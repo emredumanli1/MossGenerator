@@ -1,4 +1,5 @@
 Moss Generation using Shell Texturing
+
 This Unity project creates a moss-like surface generation technique using Shell Texturing with custom vertex and fragment shaders. The texture simulates the growth, structure, and movement of moss on any given 3D surface, offering parameters to adjust appearance and dynamics of the moss.
 
 
