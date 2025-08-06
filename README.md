@@ -22,5 +22,7 @@ Wind direction and strength
 Texture-based Variation: Moss pattern, color and density are controlled using alpha channels of adjustable noise textures.
 
 References:
+The script code for initializing shells is referenced from GarrettGunnell/Shell-Texturing (Github)
+
 
 
